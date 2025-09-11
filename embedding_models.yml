@@ -1,0 +1,73 @@
+models:
+  stella_en_400M_v5:
+    - num_params: 435
+    - type: general
+  learning2_model:
+    - num_params: 434
+    - type: general
+  gte-large-en-v1.5:
+    - num_params: 434
+    - type: general
+  cde-small-v1:
+    - num_params: 143
+    - type: general
+  mxbai-embed-large-v1:
+    - num_params: 335
+    - type: general
+  UAE-Large-V1:
+    - num_params: 335
+    - type: general
+  GIST-large-Embedding-v0:
+    - num_params: 335
+    - type: general
+  bge-large-en-v1.5:
+    - num_params: 335
+    - type: general
+  b1ade-embed:
+    - num_params: 335
+    - type: general
+  MUG-B-1.6:
+    - num_params: 335
+    - type: general
+  gte-base-en-v1.5:
+    - num_params: 137
+    - type: general
+  GIST-Embedding-v0:
+    - num_params: 109
+    - type: general
+  bge-base-en-v1.5:
+    - num_params: 109
+    - type: general
+  sf_model_e5:
+    - num_params: 335
+    - type: general
+  mxbai-embed-2d-large-v1:
+    - num_params: 335
+    - type: general
+  gte-large:
+    - num_params: 109
+    - type: general
+  nomic-embed-text-v1:
+    - num_params: 137
+    - type: general
+  mmlw-e5-base:
+    - num_params: 278
+    - type: general
+  mmlw-e5-small:
+    - num_params: 118
+    - type: general
+  mmlw-roberta-base:
+    - num_params: 124
+    - type: general
+  mmlw-roberta-large:
+    - num_params: 435
+    - type: general
+  st-polish-paraphrase-from-distilroberta:
+    - num_params: 125
+    - type: general
+  distiluse-base-multilingual-cased-v1:
+    - num_params: 135
+    - type: general
+  jinaai/jina-embeddings-v2-base-code:
+    - num_params: 161
+    - type: code
