@@ -96,7 +96,7 @@ Mean Reciprocal Rank (MRR)
 Mean Average Precision at k (MAP@k)
 
 📁 Project Structure
-bash
+"""bash
 Copier le code
 replika/
 ├── src/
