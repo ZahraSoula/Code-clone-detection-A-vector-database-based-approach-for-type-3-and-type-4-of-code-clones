@@ -20,7 +20,6 @@ Before running the project, make sure you have the following installed:
 ## 🚀 Installation
 
 ### 1. Clone the repository
-```bash
 git clone https://github.com/yourusername/replika.git
 cd replika
 ### 2. Create and activate a virtual environment
